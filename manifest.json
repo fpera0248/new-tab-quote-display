@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "New Tab Quote",
+    "description": "Displays a quote when a new tab is opened",
+    "version": "1.0.0",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    }
+}
