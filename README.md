@@ -1,6 +1,6 @@
-# new-tab-quote-display
+# New Tab Quote Display
 
-Created a Chrome Extension with Javascript that overrides the 'New Tab' button to randomly show 1 of 150 quotes.
+Created a Chrome Extension with Javascript that overrides the 'New Tab' button to randomly show 1 of 150 quotes. The project works as a Chrome Extension that presents a inspirational quote every time the New Tab button is ressed in any browser. 
 
 ## View the Project
 
